@@ -188,3 +188,8 @@
   padding-left: 15px;
 }
 
+.center-images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
