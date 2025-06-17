@@ -197,4 +197,10 @@
     width: 200px; 
     height: auto; 
 }
+.responsive-img {
+    max-height: 100px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto; 
+  }
 
